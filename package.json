@@ -1,0 +1,29 @@
+{
+  "name": "react-webpack-kanban",
+  "version": "1.0.0",
+  "description": "An simple Kanban App for learning React and Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarvinAmador7/react-webpack-kanban.git"
+  },
+  "keywords": [
+    "React",
+    "Webpack",
+    "Kanban",
+    "Learning",
+    "Web",
+    "Components",
+    "JavaScript",
+    "ES6"
+  ],
+  "author": "Marvin Amador Campos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarvinAmador7/react-webpack-kanban/issues"
+  },
+  "homepage": "https://github.com/MarvinAmador7/react-webpack-kanban#readme"
+}
